@@ -1,10 +1,10 @@
-# ToolsMr.X-Troll
+# ToolsMr.X-Troll 
 
 # Baru Buat EA 🤣🤣
 
 # Jangan di bully EA 🤣🤣 Sok Pro Pula Bully Orang Ya Kan :v
 
-# Erereeee
+# EREREEEE
 
 
 
@@ -15,11 +15,15 @@
 #1) clone dulu got clonenya kalo ga paham 
     git clone https://github.com/Toolsku12/ToolsPendek
 
-#2) Kasih Permission Caranya chmod +x BG71.sh
+#2) Terus Ketik cd ToolsPendek
 
-#3) Kalo Sudah Tinggal Jalanin Aja TOD :v
+#3) Terus Kasih Permission Dulu caranya chmod +x Toolsku.sh
 
-#4) Caranya sh BG71.sh
+#4) Kalo Sudah Tinggal Jalanin Aja TOD :v
+
+#5) Caranya sh BG71.sh
+
+#6) Kalo Udah Nanti Lu Pilih Angka 18 INSTALL BAHAN DULU ANJING!!!
 
 
 
