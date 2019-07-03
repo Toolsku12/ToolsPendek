@@ -13,7 +13,7 @@
 # Cara Menggunakannya
 
 #1) clone dulu got clonenya kalo ga paham 
-    git clone https://github.com/varvan/ToolsMr.X-Troll
+    git clone https://github.com/Toolsku12/ToolsPendek
 
 #2) Kasih Permission Caranya chmod +x BG71.sh
 
